@@ -38,5 +38,3 @@
 ~~~
           A sua senha é -> mmrkuk1*yw@lnovdpf@%$s$&yb%a*$
 ~~~
-
-## Fique a vontade para melhorar o código e fazer um PR
